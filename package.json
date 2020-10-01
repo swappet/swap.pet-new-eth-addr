@@ -1,0 +1,29 @@
+{
+  "name": "swap.pet-new-eth-addr",
+  "version": "1.0.0",
+  "description": "create new ETH/ERC20 address with node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swappet/swap.pet-new-eth-addr.git"
+  },
+  "keywords": [
+    "eth",
+    "erc20",
+    "address",
+    "swap.pet"
+  ],
+  "author": "swap.pet@pm.me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/swappet/swap.pet-new-eth-addr/issues"
+  },
+  "homepage": "https://github.com/swappet/swap.pet-new-eth-addr#readme",
+  "dependencies": {
+    "bip39": "^3.0.2",
+    "ethereum-hdwallet": "^0.0.26"
+  }
+}
