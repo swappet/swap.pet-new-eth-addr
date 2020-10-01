@@ -10,4 +10,11 @@ $ vi index.js
 ```
 
 ## create 20 ETH address
-` $ node index.js`
+```
+$ git clone git@github.com:swappet/swap.pet-new-eth-addr.git
+$ cd swap.pet-new-eth-addr
+$ npm install
+$ node index.js
+OR
+$ npm run newaddr
+```
